@@ -1,1 +1,0 @@
-# Device-Specs.github.io
